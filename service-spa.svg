@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <circle cx="60" cy="60" r="54" fill="#F4F8F6"/>
+  <!-- Spa Bowl -->
+  <path d="M28 62 C28 85 92 85 92 62 Z" fill="#E88D9E"/>
+  <ellipse cx="60" cy="62" rx="32" ry="7" fill="#C5837B"/>
+  <ellipse cx="60" cy="62" rx="28" ry="5" fill="#FDF2F4"/>
+  <!-- Floating Flower -->
+  <circle cx="60" cy="58" r="4" fill="#F59E0B"/>
+  <ellipse cx="60" cy="50" rx="3" ry="6" fill="#FFFFFF"/>
+  <ellipse cx="60" cy="66" rx="3" ry="6" fill="#FFFFFF"/>
+  <ellipse cx="52" cy="58" rx="6" ry="3" fill="#FFFFFF"/>
+  <ellipse cx="68" cy="58" rx="6" ry="3" fill="#FFFFFF"/>
+  <!-- Herbal Leaf -->
+  <path d="M42 42 C42 30 58 32 54 44 C50 44 42 46 42 42 Z" fill="#10B981"/>
+  <!-- Spa Stones -->
+  <ellipse cx="60" cy="90" rx="20" ry="7" fill="#4B5563"/>
+  <ellipse cx="60" cy="84" rx="15" ry="5" fill="#6B7280"/>
+</svg>

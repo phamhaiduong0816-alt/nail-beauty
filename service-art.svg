@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="artGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E88D9E"/>
+      <stop offset="100%" stop-color="#C5837B"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="54" fill="#FAF0F2"/>
+  <!-- Diamond / Crystal -->
+  <polygon points="60,25 78,45 60,85 42,45" fill="url(#artGrad)"/>
+  <polygon points="60,25 60,85 42,45" fill="#D47587" opacity="0.6"/>
+  <line x1="42" y1="45" x2="78" y2="45" stroke="#FFFFFF" stroke-width="1.5"/>
+  <line x1="60" y1="25" x2="60" y2="85" stroke="#FFFFFF" stroke-width="1.5"/>
+  <!-- Paintbrush -->
+  <g transform="translate(62, 45) rotate(35)">
+    <rect x="0" y="0" width="6" height="45" rx="3" fill="#2B2124"/>
+    <rect x="0" y="42" width="6" height="12" fill="#E5E7EB"/>
+    <path d="M0 54 Q3 66 6 54 Z" fill="#E88D9E"/>
+  </g>
+  <!-- Sparkles -->
+  <polygon points="30,30 32,34 36,36 32,38 30,42 28,38 24,36 28,34" fill="#C5837B"/>
+  <polygon points="90,75 92,78 95,80 92,82 90,85 88,82 85,80 88,78" fill="#E88D9E"/>
+</svg>

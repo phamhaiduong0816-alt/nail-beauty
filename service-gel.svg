@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="gelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8B4C4"/>
+      <stop offset="100%" stop-color="#E88D9E"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Circle -->
+  <circle cx="60" cy="60" r="54" fill="#FDF2F4"/>
+  <!-- Nail Polish Bottle -->
+  <rect x="42" y="52" width="36" height="42" rx="10" fill="url(#gelGrad)"/>
+  <rect x="48" y="24" width="24" height="28" rx="4" fill="#2B2124"/>
+  <!-- Bottle Cap Detail -->
+  <line x1="52" y1="32" x2="68" y2="32" stroke="#4A3B40" stroke-width="2"/>
+  <line x1="52" y1="38" x2="68" y2="38" stroke="#4A3B40" stroke-width="2"/>
+  <!-- Gloss highlight -->
+  <path d="M48 60 Q52 75 52 86" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <!-- Sparkling Stars -->
+  <path d="M85 35 L87 40 L92 42 L87 44 L85 49 L83 44 L78 42 L83 40 Z" fill="#E88D9E"/>
+  <circle cx="28" cy="45" r="3" fill="#C5837B"/>
+</svg>

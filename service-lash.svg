@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <circle cx="60" cy="60" r="54" fill="#FBF4F7"/>
+  <!-- Closed Eye Curve -->
+  <path d="M35 55 Q60 75 85 55" stroke="#2B2124" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Eyelashes Curled -->
+  <path d="M42 62 Q36 44 32 38" stroke="#2B2124" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M50 65 Q48 42 46 34" stroke="#2B2124" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M60 66 Q60 40 60 30" stroke="#2B2124" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M70 65 Q72 42 74 34" stroke="#2B2124" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M78 62 Q84 44 88 38" stroke="#2B2124" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Sparkle Glow -->
+  <circle cx="34" cy="78" r="3" fill="#E88D9E"/>
+  <circle cx="86" cy="78" r="3" fill="#E88D9E"/>
+  <polygon points="60,82 62,85 65,87 62,89 60,92 58,89 55,87 58,85" fill="#C5837B"/>
+</svg>
